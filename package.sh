@@ -16,16 +16,7 @@ git clone --depth 1 https://github.com/frainzy1477/luci-app-clash package/othera
 git clone --depth 1 https://github.com/OpenWrt-Actions/luci-app-vssr package/otherapp/luci-app-vssr
 git clone --depth 1 https://github.com/lucikap/luci-app-nettask.git package/luci-app-nettask
 git clone --depth 1 https://github.com/frainzy1477/luci-app-clash.git package/luci-app-clash
-
-# Theme
-# luci-theme-neobird
 git clone --depth 1 https://github.com/thinktip/luci-theme-neobird.git package/otherapp/luci-theme-neobird
-
-# Mentohust
 git clone --depth 1 https://github.com/KyleRicardo/MentoHUST-OpenWrt-ipk.git package/otherapp/mentohust
-
-# UnblockNeteaseMusic
 git clone --depth 1 -b master  https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git package/otherapp/unblockneteasemusic
-
-# OpenClash
 git clone --depth 1 https://github.com/vernesong/OpenClash.git package/otherapp/luci-app-openclash

@@ -20,6 +20,8 @@ git clone --depth 1 https://github.com/ilxp/luci-app-ikoolproxy
 git clone --depth 1 https://github.com/frainzy1477/luci-app-clash
 git clone --depth 1 https://github.com/OpenWrt-Actions/luci-app-vssr
 
+git clone --depth 1 https://github.com/sirpdboy/luci-app-taskplan package/luci-app-taskplan
+git clone --depth 1 https://github.com/sirpdboy/chatgpt-web.git package/luci-app-chatgpt
 git clone --depth 1 https://github.com/zxl78585/luci-app-autoreboot.git package/luci-app-autoreboot
 git clone --depth 1 https://github.com/gngpp/luci-app-design-config.git package/luci-app-design-config
 git clone --depth 1 https://github.com/AlexZhuo/luci-app-haproxy-tcp package/luci-app-haproxy-tcp
